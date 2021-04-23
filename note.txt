@@ -1,0 +1,3 @@
+Ini tugas dibuat dengan penuh kebingungan dan kekurang pahaman praktikan akan materi function dan method, jadi tugas responsi dibuat sepahamnya.
+Enkripsi-Dekripsi sudah ada.
+Kurang dalam implementasi method pada code.
